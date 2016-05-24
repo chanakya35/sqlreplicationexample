@@ -146,3 +146,6 @@ IdsDatabases/IdsDatabases.sln.vsext.disable
 
 # Visual Studio 2015 cache/options directory
 .vs/
+
+# Raven Studio ZIP file (?)
+Raven.Studio.Html5.zip
